@@ -7,6 +7,8 @@ public class A {
 
 		A a = new A();
 		a.m1();
+		B b = new B();
+		b.m3();
 	}
 	public void m1()
 	{
